@@ -1,8 +1,8 @@
 <?php
 /**
- * _s Theme Customizer
+ * hello_world Theme Customizer
  *
- * @package _s
+ * @package hello_world
  */
 
 /**
